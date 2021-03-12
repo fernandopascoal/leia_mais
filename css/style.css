@@ -1,0 +1,20 @@
+#container {
+    width: 40%;
+    margin: auto;
+}
+
+#mais {
+    display: none;
+}
+
+#btn {
+    text-decoration: none;
+    color: coral;
+    font-weight: bold;
+    display: flex;
+    justify-content: flex-end;
+}
+
+#btn:hover {
+    color: chocolate;
+}
